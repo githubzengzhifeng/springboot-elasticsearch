@@ -1,0 +1,8 @@
+elasticsearch:
+  #集群地址，多个用，隔开
+  host: 192.168.133.68:9200,192.168.133.68:9201,192.168.133.68:9202
+  #最大线程数并发数量
+  maxConnTotal: 100
+  maxConnPerRoute: 100
+server:
+  port: 8090
