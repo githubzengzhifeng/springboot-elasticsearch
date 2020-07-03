@@ -1,0 +1,122 @@
+[{
+		"class": "计科2",
+		"name": "许褚",
+		"age": "20",
+		"sex": "男",
+		"nation": "汉",
+		"posture": {
+			"height": 180,
+			"bodyWeight": 75,
+			"measurements": [60, 50, 80]
+		},
+		"vision": {
+
+			"leftEye": 4.5,
+			"rightEye": 5.0
+
+		}
+	},
+	{
+		"class": "交通2",
+		"name": "梁宇",
+		"age": "22",
+		"sex": "男",
+		"nation": "汉",
+		"posture": {
+			"height": 177,
+			"bodyWeight": 60,
+			"measurements": [46, 46, 78]
+		},
+		"vision": {
+
+			"leftEye": 5.1,
+			"rightEye": 5.0
+
+		}
+	}, {
+		"class": "计科2",
+		"name": "韩舜",
+		"age": "20",
+		"sex": "男",
+		"nation": "汉",
+		"posture": {
+			"height": 166,
+			"bodyWeight": 50,
+			"measurements": [40, 30, 40]
+		},
+		"vision": {
+
+			"leftEye": 3.3,
+			"rightEye": 3.3
+
+		}
+	}, {
+		"class": "绘画1",
+		"name": "文洁",
+		"age": "18",
+		"sex": "女",
+		"nation": "汉",
+		"posture": {
+			"height": 160,
+			"bodyWeight": 48,
+			"measurements": [36, 20, 35]
+		},
+		"vision": {
+
+			"leftEye": 4.5,
+			"rightEye": 4.5
+
+		}
+	}, {
+		"class": "交通1",
+		"name": "宁静",
+		"age": "24",
+		"sex": "女",
+		"nation": "汉族",
+		"posture": {
+			"height": 165,
+			"bodyWeight": 55,
+			"measurements": [40, 20, 40]
+		},
+		"vision": {
+
+			"leftEye": 5.5,
+			"rightEye": 5.0
+
+		}
+	}, {
+		"class": "计科2",
+		"name": "许光汉",
+		"age": "19",
+		"sex": "男",
+		"nation": "汉",
+		"posture": {
+			"height": 183,
+			"bodyWeight": 67,
+			"measurements": [60, 50, 80]
+		},
+		"vision": {
+
+			"leftEye": 5.0,
+			"rightEye": 5.0
+
+		}
+	}, {
+		"class": "机械1",
+		"name": "李静",
+		"age": "20",
+		"sex": "女",
+		"nation": "瑶族",
+		"posture": {
+			"height": 155,
+			"bodyWeight": 55,
+			"measurements": [50, 50, 50]
+		},
+		"vision": {
+
+			"leftEye": 3.4,
+			"rightEye": 4.1
+
+		}
+	}
+]
